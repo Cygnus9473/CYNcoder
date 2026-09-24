@@ -10,8 +10,8 @@
   "jsonUrl": "https://cygnus9473.github.io/CYNcoder/com/cygnus/CYNcoder/1.0/CYNcoder2026-v1.json",
   "javaDependencies": [
     {
-      "groupId": "com.CYGNUS",
-      "artifactId": "CYNcoder",
+      "groupId": "com.cygnus",
+      "artifactId": "CygnusLib",
       "version": "1.0",
       "year": 2026
     }
