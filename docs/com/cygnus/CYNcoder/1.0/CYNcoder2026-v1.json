@@ -11,7 +11,7 @@
   "javaDependencies": [
     {
       "groupId": "com.cygnus",
-      "artifactId": "CYNcoder",
+      "artifactId": "CygnusLib",
       "version": "1.0",
       "year": 2026
     }
