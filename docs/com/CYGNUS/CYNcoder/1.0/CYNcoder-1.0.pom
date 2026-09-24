@@ -1,0 +1,57 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.CYGNUS</groupId>
+    <artifactId>CYNcoder</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>CYNcoder</name>
+    <description>Custom encoder library for FRC robots</description>
+    <url>https://github.com/Cygnus9473/CYNcoder</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>cygnus9473</id>
+            <name>Ömer</name>
+            <email>omer@example.com</email>
+            <organization>CYGNUS Robotics</organization>
+            <organizationUrl>https://github.com/Cygnus9473</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/Cygnus9473/CYNcoder.git</connection>
+        <developerConnection>scm:git:ssh://github.com/Cygnus9473/CYNcoder.git</developerConnection>
+        <url>https://github.com/Cygnus9473/CYNcoder</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Releases</name>
+            <url>https://github.com/Cygnus9473/CYNcoder/releases/download/cyncoder/</url>
+        </repository>
+    </distributionManagement>
+
+    <dependencies>
+        <dependency>
+            <groupId>edu.wpi.first.wpilibj</groupId>
+            <artifactId>wpilibj-java</artifactId>
+            <version>2026.2.1</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+</project>
