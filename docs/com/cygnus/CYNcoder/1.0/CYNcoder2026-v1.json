@@ -7,7 +7,7 @@
   "mavenUrls": [
     "https://cygnus9473.github.io/CYNcoder/"
   ],
-  "jsonUrl": "https://cygnus9473.github.io/CYNcoder/com/cygnus/CYNcoder/1.0/CYNcoder2026-v1.json",
+  "jsonUrl": "https://cygnus9473.github.io/CYNcoder/com/cygnus/CygnusLib/1.0/CYNcoder2026-v1.json",
   "javaDependencies": [
     {
       "groupId": "com.cygnus",
