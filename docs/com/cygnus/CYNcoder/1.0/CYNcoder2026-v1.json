@@ -1,0 +1,21 @@
+{
+  "fileName": "CYNcoder2026-v1.json",
+  "name": "CYNcoder",
+  "version": "1.0",
+  "uuid": "6848ec11-7801-4348-940e-c0e707987ce2",
+  "frcYear": 2026,
+  "mavenUrls": [
+    "https://cygnus9473.github.io/CYNcoder/"
+  ],
+  "jsonUrl": "https://cygnus9473.github.io/CYNcoder/com/CYGNUS/CYNcoder/1.0/CYNcoder2026-v1.json",
+  "javaDependencies": [
+    {
+      "groupId": "com.CYGNUS",
+      "artifactId": "CYNcoder",
+      "version": "1.0",
+      "year": 2026
+    }
+  ],
+  "jniDependencies": [],
+  "cppDependencies": []
+}
