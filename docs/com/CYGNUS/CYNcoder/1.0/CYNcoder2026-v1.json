@@ -5,9 +5,9 @@
   "uuid": "6848ec11-7801-4348-940e-c0e707987ce2",
   "frcYear": 2026,
   "mavenUrls": [
-    "https://github.com/Cygnus9473/CYNcoder/releases/download/cyncoder/"
+    "https://cygnus9473.github.io/CYNcoder/"
   ],
-  "jsonUrl": "https://github.com/Cygnus9473/CYNcoder/releases/download/cyncoder/CYNcoder2026-v1.json",
+  "jsonUrl": "https://cygnus9473.github.io/CYNcoder/com/CYGNUS/CYNcoder/1.0/CYNcoder2026-v1.json",
   "javaDependencies": [
     {
       "groupId": "com.CYGNUS",
